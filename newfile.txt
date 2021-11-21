@@ -1,1 +1,1 @@
-newfile変更
+newfile変更(main)
